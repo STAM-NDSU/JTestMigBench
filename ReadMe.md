@@ -5,7 +5,7 @@ The artifact repository for the paper titled:
 >Ajay Kumar Jha, Mohayeminul Islam, and Sarah Nadi. JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration. 
 >In <i>Proceedings of 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)</i>. 2023. ERA Track
 
-In this paper, we create a benchmark of 510 manually migrated or reused JUnit tests for 186 methods from 5 popular libraries. We also provide a taxonomy of code transformation patterns. 
+In this paper, we create a benchmark of 510 manually migrated or reused JUnit tests for 186 methods from 5 popular libraries. We also provide a taxonomy of migration-related code changes. [<a href="https://hifromajay.github.io/papers/saner23.pdf" target="_blank">Paper</a>]
 
 ## Contents
 
